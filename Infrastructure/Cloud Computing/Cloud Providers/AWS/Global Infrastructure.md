@@ -1,8 +1,8 @@
-###AWS Global Infrastructure
+### AWS Global Infrastructure
 
-Availability Zone (AZ): Is cluster of datacenter with redundant power, networking and connectivty.:
+**Availability Zone (AZ):** Is cluster of datacenter with redundant power, networking and connectivty.:
 
-Region: is cluster of AZs in order to make redundancy of an AZ, you can pickup a region that get its name according with the location 
+**Region:** is cluster of AZs in order to make redundancy of an AZ, you can pickup a region that get its name according with the location 
 
 ##### When deciding which AWS regin to use:
 
