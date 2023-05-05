@@ -1,5 +1,5 @@
 ## Kubernetes
-Kubernetes is an opensource platform to orchestate and manage containerize application, this was intially developed by google but now is manteined by the Cloud Native Compute Fundation(CNCF). Kubernete provide a way to automate the deployment, scalability, and management containerize applications running on cloud environments or local datacenters.
+Kubernetes is an opensource platform to orchestate and manage containerize application, this was intially developed by google but now is manteined by the Cloud Native Compute Fundation(CNCF). Kubernete provides a way to automate the deployment, scalability, and management containerize applications running on cloud environments or local datacenters.
 
 
 Most cotainer orchestrators can:
